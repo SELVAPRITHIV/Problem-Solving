@@ -1,1 +1,1 @@
-select name from customer where referee_id!=2 or referee_id is null;
+select name from customer cus where cus.referee_id!=2 or cus.referee_id is null;
