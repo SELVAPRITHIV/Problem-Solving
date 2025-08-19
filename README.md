@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1908-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0724-find-pivot-index) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
