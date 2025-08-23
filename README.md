@@ -32,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0678-valid-parenthesis-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,8 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0678-valid-parenthesis-string) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
