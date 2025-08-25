@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0724-find-pivot-index) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0678-valid-parenthesis-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## String Matching
 |  |
 | ------- |
