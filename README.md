@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0678-valid-parenthesis-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## String Matching
@@ -93,9 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0412-fizz-buzz) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
