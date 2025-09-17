@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0678-valid-parenthesis-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0389-find-the-difference) |
 ## Queue
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0088-merge-sorted-array) |
+| [0389-find-the-difference](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0389-find-the-difference) |
 | [2756-buy-two-chocolates](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/2756-buy-two-chocolates) |
 ## Linked List
 |  |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
