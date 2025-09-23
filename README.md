@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0412-fizz-buzz) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3830-find-closest-person](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/3830-find-closest-person) |
 ## Trie
 |  |
