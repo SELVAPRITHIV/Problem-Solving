@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0678-valid-parenthesis-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0389-find-the-difference) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Queue
 |  |
