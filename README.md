@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0724-find-pivot-index) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
