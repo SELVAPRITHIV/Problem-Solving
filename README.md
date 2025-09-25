@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0724-find-pivot-index) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2756-buy-two-chocolates](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/2756-buy-two-chocolates) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Prefix Sum
