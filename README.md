@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0724-find-pivot-index) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0412-fizz-buzz) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
