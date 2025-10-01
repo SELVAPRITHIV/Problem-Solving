@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0724-find-pivot-index) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0410-split-array-largest-sum) |
 ## Dynamic Programming
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
