@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0169-majority-element) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0410-split-array-largest-sum) |
 ## Dynamic Programming
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
