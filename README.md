@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0412-fizz-buzz) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0074-search-a-2d-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
