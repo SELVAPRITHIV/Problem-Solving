@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0724-find-pivot-index) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
