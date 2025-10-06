@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0229-majority-element-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
