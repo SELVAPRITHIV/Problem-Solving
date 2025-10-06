@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0724-find-pivot-index) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0414-third-maximum-number) |
 | [2756-buy-two-chocolates](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/2756-buy-two-chocolates) |
 ## Linked List
 |  |
