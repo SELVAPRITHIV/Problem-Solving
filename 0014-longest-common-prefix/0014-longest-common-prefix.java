@@ -4,7 +4,8 @@ class Solution {
        Arrays.sort(strs);
        String a = strs[0];
        String b = strs[strs.length-1];
-       for(int i=0;i<a.length();i++){
+       int min = Math.min(a.length(),b.length());
+       for(int i=0;i<min;i++){
         if(a.charAt(i)!=b.charAt(i)){
             return sb.toString();
         }
