@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0724-find-pivot-index) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2737-row-with-maximum-ones](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/2737-row-with-maximum-ones) |
@@ -71,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0678-valid-parenthesis-string) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Greedy
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0678-valid-parenthesis-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2756-buy-two-chocolates](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/0678-valid-parenthesis-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SELVAPRITHIV/Problem-Solving-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
